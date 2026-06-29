@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=feecf9&height=240&text=Wellcome!-nl-Gyeongmin's%20Github&animation=blinking&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=feecf9&height=240&text=Welcome!-nl-Gyeongmin's%20Github&animation=blinking&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 데이터의 흐름을 설계하고 자동화하는 데이터 엔지니어를 지향합니다. </h2>  
